@@ -13,7 +13,7 @@ title: Art for Life
 
 - [성필관 이야기](./성필관.md)
 - [홍우길 이야기](./홍우길.md)
-- [김대환 이야기](./흑우김대환.md)
+- [김대환 이야기](./heugwoo_kimdaehwan)
 ---
 
 ## 🎨 About This Project
